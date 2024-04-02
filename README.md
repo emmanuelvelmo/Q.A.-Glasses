@@ -1,2 +1,2 @@
-# Q-A-Glasses
-A device powered by computer vision to answer questions in text form
+# Q.A-Glasses (ongoing)
+A device powered by computer vision to answer questions from text
